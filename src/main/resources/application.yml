@@ -1,0 +1,11 @@
+server:
+  port: 7777
+
+spring:
+  application:
+    name: Sen Kazan
+
+fixer:
+  api:
+    url: http://data.fixer.io/api
+    accessKey: 68420b6f281f6c4232b7d845ef6197c9

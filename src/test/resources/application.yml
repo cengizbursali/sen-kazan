@@ -1,0 +1,4 @@
+fixer:
+  api:
+    url: localhost:6931
+    accessKey: test_key
